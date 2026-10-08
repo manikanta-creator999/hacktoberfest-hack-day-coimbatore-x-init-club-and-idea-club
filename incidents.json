@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "15:55:04",
+    "raw_packet": "PRIO:CRITICAL/HIGH|LOC:Amrita Vishwa Vidyapeetham, Ettimadai library|HAZ:Fire, Entrapment, Injury|CAS:1|REQ:Rescue, Medical aid",
+    "bytes": 127,
+    "PRIO": "CRITICAL/HIGH",
+    "LOC": "Amrita Vishwa Vidyapeetham, Ettimadai library",
+    "HAZ": "Fire, Entrapment, Injury",
+    "CAS": "1",
+    "REQ": "Rescue, Medical aid",
+    "coords": [
+      10.9038,
+      76.8998
+    ],
+    "zone_name": "Central Library"
+  }
+]
